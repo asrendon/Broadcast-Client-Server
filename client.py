@@ -1,7 +1,5 @@
 import time
 import socket
-import ipaddress
-import netifaces as ni
 
 
 
